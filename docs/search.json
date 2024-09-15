@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-project",
+    "title": "My Portfolio website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My name is Tien Nguyen, and I am a graduate student in the Master of Data Science program at UBC Vancouver. I hold a Bachelor’s degree in Statistics with a strong foundation in Computer Science, having gained significant experience in programming languages such as Python and R throughout my academic journey. My expertise lies in data manipulation, visualization, and applying machine learning techniques to real-world problems. During my time at the UBC Cloud Innovation Centre, I further honed my skills by developing data processing pipelines, building business intelligence dashboards, and working on machine learning models. I am passionate about leveraging my skills to solve complex problems and drive data-driven solutions across various industries."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "My Portfolio website",
+    "section": "",
+    "text": "My name is Tien Nguyen, and I am a graduate student in the Master of Data Science program at UBC Vancouver. I hold a Bachelor’s degree in Statistics with a strong foundation in Computer Science, having gained significant experience in programming languages such as Python and R throughout my academic journey. My expertise lies in data manipulation, visualization, and applying machine learning techniques to real-world problems. During my time at the UBC Cloud Innovation Centre, I further honed my skills by developing data processing pipelines, building business intelligence dashboards, and working on machine learning models. I am passionate about leveraging my skills to solve complex problems and drive data-driven solutions across various industries."
   }
 ]
